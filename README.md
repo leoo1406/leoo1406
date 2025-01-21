@@ -14,15 +14,6 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/apileoo1406&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/leoo1406&layout=compact&theme=radical" />
-</div>
-
----
-
 ### 🌟 Projetos em Destaque
 
 - 🛠️ [Jogo do Número Secreto](https://github.com/leoo1406/jogo-do-numero-secreto): Tente adivinhar o número secreto - 1° projeto que fiz pelos cursos da Alura.  
