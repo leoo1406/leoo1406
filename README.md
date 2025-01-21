@@ -16,11 +16,10 @@
 
 ### 📊 Minhas Estatísticas no GitHub
 
-Página em construção..
-//<div align="center">
-//  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" />
-//  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" />
-//</div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?leoo1406&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?leoo1406&layout=compact&theme=radical" />
+</div>
 
 ---
 
