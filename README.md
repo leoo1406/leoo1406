@@ -1,7 +1,7 @@
 # Perfil do GitHub de Leonardo Baronio
 
 🎯 **Sobre mim**  
-- tualmente, estou cursando **Ciências da Computação no 5° Período.**  
+- Atualmente, estou cursando **Ciências da Computação no 5° Período.**  
 - Gosto bastante de estudar **JavaScript e automações.**  
 - Trabalhando como **Desenvolvedor Web - Trainee.**  
 
@@ -17,7 +17,7 @@
 ### 🌟 Projetos em Destaque
 
 - [Jogo do Número Secreto](https://github.com/leoo1406/jogo-do-numero-secreto): Tente adivinhar o número secreto - 1° projeto que fiz pelos cursos da Alura.  
-- [Site para foco](https://github.com/leoo1406/site_para_foco): Site com timer e música para foco - Projeto que fiz com a Alura também.
+- [Site para foco](https://github.com/leoo1406/site_para_foco): Site com timer e música para foco
 - [Trabalho IPC](https://github.com/leoo1406/IPC_SO): Trabalho da matéria de Sistemas Operacionais utilizando threads e mutex.
 ---
 
